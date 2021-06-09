@@ -9,7 +9,7 @@ error_reporting(0);
 header("content-type: application/json; charset= UTF-8");
 $api	= "https://api.ineo-team.ir/radiojavan.php"; // don't change it
 $auth	= "rj0123456789"; // replace your api http access token; buy from: @RadioJavanComBot
-$link	= "https://rj.app/m/2qegZy6v"; // example radio javan music link
+$link	= "https://www.radiojavan.com/mp3s/mp3/Hamid-Sefat-Too-Deli"; // example radio javan music or video link
 $get    = file_get_contents($link);
 function json($array){
 	echo json_encode($array);
