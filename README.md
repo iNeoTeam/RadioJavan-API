@@ -10,6 +10,8 @@
 
 <b>آیدی کانال:</b> <a href='https://t.me/iNeoTeam' target='_blank'>@iNeoTeam</a>
 
+<b>مستندات این وب سرویس:</b> <a href='https://api.ineo-team.ir/docs.php?apiName=radiojavan' target='_blank'>مشاهده</a>
+
 <b>پست مربوط به این وب سرویس:</b> <a href='https://t.me/iNeoTeam/155' target='_blank'>@iNeoTeam/155</a>
 
 برای دریافت توکن دسترسی وب سرویس، از طریق لینک زیر اقدام به دریافت کنید.
