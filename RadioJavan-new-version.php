@@ -25,7 +25,6 @@ $api = "https://api.ineo-team.ir";		// Don't change it!
 define('AUTH', "rj1234567890");			// Replace your RadioJavan api http access key.
 function RadioJavan($method, $data = []){
 	global $api;
-	$data['auth'] = AUTH;
 	$data['action'] = $method;
 	$cURL = curl_init();
 	curl_setopt($cURL, CURLOPT_URL, $api."/RadioJavan-vr.php?".http_build_query($data));
