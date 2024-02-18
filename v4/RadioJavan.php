@@ -5,7 +5,7 @@
 	Author           : Yasin Bahrami
 	Documents        : https://docs.ineo-team.ir/radiojavan
 	Panel            : https://t.me/APIManager_Bot?start=api-radiojavan
-	GitHub           : https://github.com/iNeoTeam/RadioJavan-API/v4
+	GitHub           : https://github.com/iNeoTeam/RadioJavan-API/tree/main/v4
 */
 class RadioJavan{
 	const API = "https://api.ineo-team.ir/rj.php";
